@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ VULNERABILITY ASSESSMENT REPORT FOR A LIVE WEBSITE
+# 🛡️VULUNEBBLITY ASSESSMENT REPORT FOR A LIVE WEBSITE
 
 ### Read-Only Web Security Assessment  
 **Ethical • Non-Intrusive**
